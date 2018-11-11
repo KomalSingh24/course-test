@@ -1,0 +1,25 @@
+body{
+	font-size:16px;
+	color:#fff;
+	background-color:#61342f;
+	color:#fff;
+}
+#header-nav{
+	background-color:#fff319;
+	border-radius:0;
+	border:1px ;
+	height:50px;
+	color: #ff0000;
+}
+span{
+	text-align: center;
+}
+#heading{
+	text-align:center;
+	color:maroon;
+}
+
+#main-content{
+	background-color: pink;
+	color:black;
+}
